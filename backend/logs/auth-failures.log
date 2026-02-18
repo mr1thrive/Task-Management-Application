@@ -1,0 +1,6 @@
+{"time":"2026-02-17T18:40:12.216Z","email":"test113@gt.com","reason":"user_not_found","ip":"::1"}
+{"time":"2026-02-17T18:41:11.096Z","email":"test1115@gt.com","reason":"user_not_found","ip":"::1"}
+{"email":"test123@test123.com","reason":"signup_server_error","ip":"::1","time":"2026-02-17T18:50:31.635Z"}
+{"email":"test123@test123.com","reason":"signup_server_error","ip":"::1","time":"2026-02-17T18:52:03.100Z"}
+{"email":"t12345@test.com","reason":"signup_server_error","ip":"::1","time":"2026-02-17T18:53:54.764Z"}
+{"email":"user123@test.com","reason":"signup_server_error","ip":"::1","time":"2026-02-17T18:58:34.296Z"}
